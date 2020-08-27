@@ -1,8 +1,8 @@
 package main
 
 import (
-	"idis/cache"
-	"idis/http"
+	"bobac/cache"
+	"bobac/http"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package http
 
 import (
-	"idis/cache"
+	"bobac/cache"
 	"net/http"
 )
 
